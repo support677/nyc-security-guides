@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://support677.github.io/nyc-security-guides/sitemap.xml
