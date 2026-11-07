@@ -10,3 +10,6 @@
 2026-11-07 | https://support677.github.io/nyc-security-guides/alarm-installation-nyc/ | QUEUED
 2026-11-07 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-nyc/ | QUEUED
 2026-11-07 | https://support677.github.io/nyc-security-guides/apartment-intercom-system-nyc/ | QUEUED
+2026-11-07 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-nyc/ | QUEUED
+2026-11-07 | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-nyc/ | QUEUED
+2026-11-07 | https://support677.github.io/nyc-security-guides/tv-installation-nyc/ | QUEUED
