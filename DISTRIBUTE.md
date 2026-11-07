@@ -12,3 +12,4 @@ date | phrase | guide url | AESS page
 2026-11-07 | doorbell camera installation NYC | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/doorbell-camera-installation-nyc
 2026-11-07 | residential security camera installation NYC | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-nyc
 2026-11-07 | tv installation NYC | https://support677.github.io/nyc-security-guides/tv-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/tv-installation-nyc
+2026-11-07 | NYC home security statistics 2026 (original research report) | https://support677.github.io/nyc-security-guides/report-2026/ | https://www.abstractenterprisessecuritysystems.com/
