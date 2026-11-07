@@ -52,8 +52,10 @@ Read the current index.html/sitemap.xml/LOG.md from the repo first and send full
 
 ## 5. After publishing
 - Verify each new URL with Firecrawl (GitHub Pages can take 1–3 min; retry once after a wait). Report any that 404.
-- If `GSC_VERIFIED: yes` below, submit the sitemap https://support677.github.io/nyc-security-guides/sitemap.xml with Composio Google Search Console (account under openeyesales@gmail.com).
+- Append each new guide URL to `INDEXING.md` as `YYYY-MM-DD | <url> | QUEUED` (the Chrome indexing task works that queue).
 - Append the new guide URLs to `DISTRIBUTE.md` (date | phrase | guide url | AESS page) — the LinkedIn and social posting tasks pick links from there.
+- Do NOT submit the sitemap by API: the Search Console property is owned by support@abstractenterprisessecuritysystems.com (not the openeyesales Composio connection). The sitemap was submitted once in the UI; Google re-reads it on its own.
 
-GSC_VERIFIED: no
+GSC_VERIFIED: yes (Nov 7 2026)
+GSC_ACCOUNT: support@abstractenterprisessecuritysystems.com — kept separate from openeyesales (main AESS site) so the guides get their own daily "Request indexing" allowance
 GSC_PROPERTY: https://support677.github.io/nyc-security-guides/
