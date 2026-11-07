@@ -7,3 +7,6 @@
 2026-11-07 | https://support677.github.io/nyc-security-guides/access-control-installation-nyc/ | REQUESTED 2026-11-07 (manual, Anwar)
 2026-11-07 | https://support677.github.io/nyc-security-guides/security-camera-repair-nyc/ | REQUESTED 2026-11-07 (manual, Anwar)
 2026-11-07 | https://support677.github.io/nyc-security-guides/door-buzzer-repair-nyc/ | REQUESTED 2026-11-07 (manual, Anwar)
+2026-11-07 | https://support677.github.io/nyc-security-guides/alarm-installation-nyc/ | QUEUED
+2026-11-07 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-nyc/ | QUEUED
+2026-11-07 | https://support677.github.io/nyc-security-guides/apartment-intercom-system-nyc/ | QUEUED
