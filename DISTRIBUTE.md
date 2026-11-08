@@ -13,3 +13,6 @@ date | phrase | guide url | AESS page
 2026-11-07 | residential security camera installation NYC | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-nyc
 2026-11-07 | tv installation NYC | https://support677.github.io/nyc-security-guides/tv-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/tv-installation-nyc
 2026-11-07 | NYC home security statistics 2026 (original research report) | https://support677.github.io/nyc-security-guides/report-2026/ | https://www.abstractenterprisessecuritysystems.com/
+2026-11-08 | Cat6 installation NYC | https://support677.github.io/nyc-security-guides/cat6-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/cat6-installation-nyc
+2026-11-08 | structured cabling installation NYC | https://support677.github.io/nyc-security-guides/structured-cabling-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-nyc
+2026-11-08 | fire alarm installation NYC | https://support677.github.io/nyc-security-guides/fire-alarm-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-nyc

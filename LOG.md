@@ -12,3 +12,6 @@ date | slug | title | url | words
 2026-11-07 | doorbell-camera-installation-nyc | Doorbell Camera Installation NYC: Answer 3 Questions Before You Mount Anything | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-nyc/ | 1408 words
 2026-11-07 | residential-security-camera-installation-nyc | Residential Security Camera Installation NYC: Plan Coverage by Home Type, Then Count Cameras | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-nyc/ | 1274 words
 2026-11-07 | tv-installation-nyc | TV Installation NYC: Your Wall Type, Your Building and What the Price Covers | https://support677.github.io/nyc-security-guides/tv-installation-nyc/ | 1219 words
+2026-11-08 | cat6-installation-nyc | Cat6 Installation NYC: Count Your Drops, Then Price the Pathway | https://support677.github.io/nyc-security-guides/cat6-installation-nyc/ | 1304 words
+2026-11-08 | structured-cabling-installation-nyc | Structured Cabling Installation NYC: What the Building Will Ask For Before the First Cable Is Pulled | https://support677.github.io/nyc-security-guides/structured-cabling-installation-nyc/ | 1248 words
+2026-11-08 | fire-alarm-installation-nyc | Fire Alarm Installation NYC: The FDNY Path from Plan to Letter of Approval | https://support677.github.io/nyc-security-guides/fire-alarm-installation-nyc/ | 1245 words
