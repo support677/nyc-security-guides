@@ -23,3 +23,6 @@
 2026-11-08 | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/arlo-camera-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/av-sound-installation-nyc/ | QUEUED
+2026-11-08 | https://support677.github.io/nyc-security-guides/avycon-camera-installation-nyc/ | QUEUED
+2026-11-08 | https://support677.github.io/nyc-security-guides/blink-camera-installation-nyc/ | QUEUED
+2026-11-08 | https://support677.github.io/nyc-security-guides/burglar-alarm-installation-nyc/ | QUEUED
