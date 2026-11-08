@@ -17,3 +17,6 @@
 2026-11-08 | https://support677.github.io/nyc-security-guides/cat6-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/fire-alarm-installation-nyc/ | QUEUED
+2026-11-08 | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-nyc/ | QUEUED
+2026-11-08 | https://support677.github.io/nyc-security-guides/amcrest-camera-installation-nyc/ | QUEUED
+2026-11-08 | https://support677.github.io/nyc-security-guides/annke-camera-installation-nyc/ | QUEUED

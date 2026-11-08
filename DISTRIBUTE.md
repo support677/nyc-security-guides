@@ -16,3 +16,6 @@ date | phrase | guide url | AESS page
 2026-11-08 | Cat6 installation NYC | https://support677.github.io/nyc-security-guides/cat6-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/cat6-installation-nyc
 2026-11-08 | structured cabling installation NYC | https://support677.github.io/nyc-security-guides/structured-cabling-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-nyc
 2026-11-08 | fire alarm installation NYC | https://support677.github.io/nyc-security-guides/fire-alarm-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-nyc
+2026-11-08 | Alarm.com camera installation NYC | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-nyc
+2026-11-08 | Amcrest camera installation NYC | https://support677.github.io/nyc-security-guides/amcrest-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-nyc
+2026-11-08 | ANNKE camera installation NYC | https://support677.github.io/nyc-security-guides/annke-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/annke-camera-installation-nyc
