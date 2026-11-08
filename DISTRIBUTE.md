@@ -19,3 +19,6 @@ date | phrase | guide url | AESS page
 2026-11-08 | Alarm.com camera installation NYC | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-nyc
 2026-11-08 | Amcrest camera installation NYC | https://support677.github.io/nyc-security-guides/amcrest-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-nyc
 2026-11-08 | ANNKE camera installation NYC | https://support677.github.io/nyc-security-guides/annke-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/annke-camera-installation-nyc
+2026-11-08 | apartment building security camera installation NYC | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-nyc
+2026-11-08 | Arlo camera installation NYC | https://support677.github.io/nyc-security-guides/arlo-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/arlo-camera-installation-nyc
+2026-11-08 | AV sound installation NYC | https://support677.github.io/nyc-security-guides/av-sound-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/av-sound-installation-nyc
