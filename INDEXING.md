@@ -29,3 +29,6 @@
 2026-11-09 | https://support677.github.io/nyc-security-guides/butterflymx-installation-nyc/ | QUEUED
 2026-11-09 | https://support677.github.io/nyc-security-guides/capture-camera-installation-nyc/ | QUEUED
 2026-11-09 | https://support677.github.io/nyc-security-guides/cat6-repair-nyc/ | QUEUED
+2026-11-09 | https://support677.github.io/nyc-security-guides/commercial-security-systems-nyc/ | QUEUED
+2026-11-09 | https://support677.github.io/nyc-security-guides/construction-site-security-camera-installation-nyc/ | QUEUED
+2026-11-09 | https://support677.github.io/nyc-security-guides/dahua-camera-installation-nyc/ | QUEUED

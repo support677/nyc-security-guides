@@ -28,3 +28,6 @@ date | phrase | guide url | AESS page
 2026-11-09 | ButterflyMX installation NYC | https://support677.github.io/nyc-security-guides/butterflymx-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/butterflymx-installation-nyc
 2026-11-09 | Capture camera installation NYC | https://support677.github.io/nyc-security-guides/capture-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-nyc
 2026-11-09 | Cat6 repair NYC | https://support677.github.io/nyc-security-guides/cat6-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/cat6-repair-nyc
+2026-11-09 | commercial security systems NYC | https://support677.github.io/nyc-security-guides/commercial-security-systems-nyc/ | https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-nyc
+2026-11-09 | construction site security camera installation NYC | https://support677.github.io/nyc-security-guides/construction-site-security-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/construction-site-security-camera-installation-nyc
+2026-11-09 | Dahua camera installation NYC | https://support677.github.io/nyc-security-guides/dahua-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-nyc
