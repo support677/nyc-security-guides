@@ -34,3 +34,6 @@ date | phrase | guide url | AESS page
 2026-11-09 | DMSS app support repair NYC | https://support677.github.io/nyc-security-guides/dmss-app-support-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/dmss-app-support-repair-nyc
 2026-11-09 | door buzzer installation NYC | https://support677.github.io/nyc-security-guides/door-buzzer-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-nyc
 2026-11-09 | DVR upgrade NYC | https://support677.github.io/nyc-security-guides/dvr-upgrade-nyc/ | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-nyc
+2026-11-09 | eufy camera installation NYC | https://support677.github.io/nyc-security-guides/eufy-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-nyc
+2026-11-09 | fiber optic installation NYC | https://support677.github.io/nyc-security-guides/fiber-optic-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-nyc
+2026-11-09 | First Alert camera installation NYC | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-nyc

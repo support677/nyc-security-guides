@@ -33,3 +33,6 @@ date | slug | title | url | words
 2026-11-09 | dmss-app-support-repair-nyc | DMSS App Support Repair NYC: Read the Error, Find the Layer, Fix the Right Thing | https://support677.github.io/nyc-security-guides/dmss-app-support-repair-nyc/ | 1346 words
 2026-11-09 | door-buzzer-installation-nyc | Door Buzzer Installation NYC: Walk the Path From the Front Door to the Last Apartment | https://support677.github.io/nyc-security-guides/door-buzzer-installation-nyc/ | 1289 words
 2026-11-09 | dvr-upgrade-nyc | DVR Upgrade NYC: Test the Cameras You Already Own Before Buying Anything | https://support677.github.io/nyc-security-guides/dvr-upgrade-nyc/ | 1244 words
+2026-11-09 | eufy-camera-installation-nyc | Eufy Camera Installation NYC: Pick the Right Device for Your Door Before You Pick a Mount | https://support677.github.io/nyc-security-guides/eufy-camera-installation-nyc/ | 1491 words
+2026-11-09 | fiber-optic-installation-nyc | Fiber Optic Installation NYC: Map the Route From Cellar to Suite Before Anyone Quotes | https://support677.github.io/nyc-security-guides/fiber-optic-installation-nyc/ | 1240 words
+2026-11-09 | first-alert-camera-installation-nyc | First Alert Camera Installation NYC: Settle the Panel, the Power and the Permission First | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-nyc/ | 1372 words
