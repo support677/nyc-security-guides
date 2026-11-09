@@ -26,3 +26,6 @@
 2026-11-08 | https://support677.github.io/nyc-security-guides/avycon-camera-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/blink-camera-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/burglar-alarm-installation-nyc/ | QUEUED
+2026-11-09 | https://support677.github.io/nyc-security-guides/butterflymx-installation-nyc/ | QUEUED
+2026-11-09 | https://support677.github.io/nyc-security-guides/capture-camera-installation-nyc/ | QUEUED
+2026-11-09 | https://support677.github.io/nyc-security-guides/cat6-repair-nyc/ | QUEUED

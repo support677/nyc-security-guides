@@ -25,3 +25,6 @@ date | phrase | guide url | AESS page
 2026-11-08 | AVYCON camera installation NYC | https://support677.github.io/nyc-security-guides/avycon-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-nyc
 2026-11-08 | Blink camera installation NYC | https://support677.github.io/nyc-security-guides/blink-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-nyc
 2026-11-08 | burglar alarm installation NYC | https://support677.github.io/nyc-security-guides/burglar-alarm-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/burglar-alarm-installation-nyc
+2026-11-09 | ButterflyMX installation NYC | https://support677.github.io/nyc-security-guides/butterflymx-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/butterflymx-installation-nyc
+2026-11-09 | Capture camera installation NYC | https://support677.github.io/nyc-security-guides/capture-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-nyc
+2026-11-09 | Cat6 repair NYC | https://support677.github.io/nyc-security-guides/cat6-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/cat6-repair-nyc
