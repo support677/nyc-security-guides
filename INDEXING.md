@@ -44,3 +44,6 @@
 2026-11-10 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/hik-connect-app-support-repair-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/hanwha-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/hikvision-security-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/home-automation-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/home-security-system-installation-nyc/ | QUEUED
