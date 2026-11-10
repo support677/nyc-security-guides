@@ -41,3 +41,6 @@
 2026-11-10 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/geovision-camera-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/hik-connect-app-support-repair-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/hanwha-camera-installation-nyc/ | QUEUED

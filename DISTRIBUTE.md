@@ -40,3 +40,6 @@ date | phrase | guide url | AESS page
 2026-11-10 | floodlight camera installation NYC | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-nyc
 2026-11-10 | GeoVision camera installation NYC | https://support677.github.io/nyc-security-guides/geovision-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-nyc
 2026-11-10 | Google Nest camera installation NYC | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/google-nest-camera-installation-nyc
+2026-11-10 | Guarding Vision app support repair NYC | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/guarding-vision-app-support-repair-nyc
+2026-11-10 | Hik-Connect app support repair NYC | https://support677.github.io/nyc-security-guides/hik-connect-app-support-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/hik-connect-app-support-repair-nyc
+2026-11-10 | Hanwha camera installation NYC | https://support677.github.io/nyc-security-guides/hanwha-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/hanwha-camera-installation-nyc
