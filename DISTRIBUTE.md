@@ -37,3 +37,6 @@ date | phrase | guide url | AESS page
 2026-11-09 | eufy camera installation NYC | https://support677.github.io/nyc-security-guides/eufy-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-nyc
 2026-11-09 | fiber optic installation NYC | https://support677.github.io/nyc-security-guides/fiber-optic-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-nyc
 2026-11-09 | First Alert camera installation NYC | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-nyc
+2026-11-10 | floodlight camera installation NYC | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-nyc
+2026-11-10 | GeoVision camera installation NYC | https://support677.github.io/nyc-security-guides/geovision-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-nyc
+2026-11-10 | Google Nest camera installation NYC | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/google-nest-camera-installation-nyc

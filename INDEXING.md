@@ -38,3 +38,6 @@
 2026-11-09 | https://support677.github.io/nyc-security-guides/eufy-camera-installation-nyc/ | QUEUED
 2026-11-09 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-nyc/ | QUEUED
 2026-11-09 | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/geovision-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-nyc/ | QUEUED
