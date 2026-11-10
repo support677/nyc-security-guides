@@ -46,3 +46,6 @@ date | phrase | guide url | AESS page
 2026-11-10 | Hikvision security camera installation NYC | https://support677.github.io/nyc-security-guides/hikvision-security-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-nyc
 2026-11-10 | home automation installation NYC | https://support677.github.io/nyc-security-guides/home-automation-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/home-automation-installation-nyc
 2026-11-10 | home security system installation NYC | https://support677.github.io/nyc-security-guides/home-security-system-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/home-security-system-installation-nyc
+2026-11-10 | Lorex camera installation NYC | https://support677.github.io/nyc-security-guides/lorex-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-nyc
+2026-11-10 | low voltage installation NYC | https://support677.github.io/nyc-security-guides/low-voltage-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+2026-11-10 | Luminys camera installation NYC | https://support677.github.io/nyc-security-guides/luminys-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-nyc

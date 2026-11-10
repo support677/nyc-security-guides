@@ -47,3 +47,6 @@
 2026-11-10 | https://support677.github.io/nyc-security-guides/hikvision-security-camera-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/home-automation-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/home-security-system-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/lorex-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/low-voltage-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-nyc/ | QUEUED
