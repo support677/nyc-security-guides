@@ -50,3 +50,6 @@
 2026-11-10 | https://support677.github.io/nyc-security-guides/lorex-camera-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/low-voltage-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/network-cable-repair-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/network-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-nyc/ | QUEUED

@@ -49,3 +49,6 @@ date | phrase | guide url | AESS page
 2026-11-10 | Lorex camera installation NYC | https://support677.github.io/nyc-security-guides/lorex-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-nyc
 2026-11-10 | low voltage installation NYC | https://support677.github.io/nyc-security-guides/low-voltage-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
 2026-11-10 | Luminys camera installation NYC | https://support677.github.io/nyc-security-guides/luminys-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-nyc
+2026-11-11 | network cable repair NYC | https://support677.github.io/nyc-security-guides/network-cable-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/network-cable-repair-nyc
+2026-11-11 | network installation NYC | https://support677.github.io/nyc-security-guides/network-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/network-installation-nyc
+2026-11-11 | Night Owl camera installation NYC | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-nyc
