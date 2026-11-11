@@ -59,3 +59,6 @@
 2026-11-11 | https://support677.github.io/nyc-security-guides/ring-camera-installation-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/school-security-camera-installation-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/security-camera-maintenance-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/smart-lock-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/solar-surveillance-trailer-nyc/ | QUEUED

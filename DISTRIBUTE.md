@@ -58,3 +58,6 @@ date | phrase | guide url | AESS page
 2026-11-11 | Ring camera installation NYC | https://support677.github.io/nyc-security-guides/ring-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-nyc
 2026-11-11 | school security camera installation NYC | https://support677.github.io/nyc-security-guides/school-security-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-nyc
 2026-11-11 | security camera maintenance NYC | https://support677.github.io/nyc-security-guides/security-camera-maintenance-nyc/ | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-nyc
+2026-11-11 | smart lock installation NYC | https://support677.github.io/nyc-security-guides/smart-lock-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-nyc
+2026-11-11 | Smart PSS support setup NYC | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-nyc/ | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-nyc
+2026-11-11 | solar surveillance trailer NYC | https://support677.github.io/nyc-security-guides/solar-surveillance-trailer-nyc/ | https://www.abstractenterprisessecuritysystems.com/solar-surveillance-trailer-nyc
