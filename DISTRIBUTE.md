@@ -55,3 +55,6 @@ date | phrase | guide url | AESS page
 2026-11-11 | NVR installation NYC | https://support677.github.io/nyc-security-guides/nvr-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/nvr-installation-nyc
 2026-11-11 | parking lot camera installation NYC | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-nyc
 2026-11-11 | Reolink camera installation NYC | https://support677.github.io/nyc-security-guides/reolink-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-nyc
+2026-11-11 | Ring camera installation NYC | https://support677.github.io/nyc-security-guides/ring-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-nyc
+2026-11-11 | school security camera installation NYC | https://support677.github.io/nyc-security-guides/school-security-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-nyc
+2026-11-11 | security camera maintenance NYC | https://support677.github.io/nyc-security-guides/security-camera-maintenance-nyc/ | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-nyc

@@ -56,3 +56,6 @@
 2026-11-11 | https://support677.github.io/nyc-security-guides/nvr-installation-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/reolink-camera-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/ring-camera-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/school-security-camera-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/security-camera-maintenance-nyc/ | QUEUED
