@@ -53,3 +53,6 @@
 2026-11-11 | https://support677.github.io/nyc-security-guides/network-cable-repair-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/network-installation-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/nvr-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/reolink-camera-installation-nyc/ | QUEUED

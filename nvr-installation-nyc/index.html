@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NQRKJPL2');</script>
+<!-- Meta Pixel -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','704169342972793');fbq('track','PageView');</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NVR Installation NYC: Work Backward From the Footage You Need, Then Pick the Box</title>
+<meta name="description" content="NVR Installation NYC: size channels, drives and RAID from the days of footage you need, place the recorder right, and get remote view working.">
+<link rel="canonical" href="https://support677.github.io/nyc-security-guides/nvr-installation-nyc/">
+<link rel="icon" href="https://www.abstractenterprisessecuritysystems.com/images/favicon-192.png">
+<meta property="og:title" content="NVR Installation NYC: Work Backward From the Footage You Need, Then Pick the Box">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://support677.github.io/nyc-security-guides/nvr-installation-nyc/">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "NVR Installation NYC: Work Backward From the Footage You Need, Then Pick the Box", "description": "NVR Installation NYC: size channels, drives and RAID from the days of footage you need, place the recorder right, and get remote view working.", "datePublished": "2026-11-11", "dateModified": "2026-11-11", "mainEntityOfPage": "https://support677.github.io/nyc-security-guides/nvr-installation-nyc/", "author": {"@type": "Organization", "name": "Abstract Enterprises Security Systems", "url": "https://www.abstractenterprisessecuritysystems.com/"}, "publisher": {"@type": "Organization", "name": "Abstract Enterprises Security Systems", "url": "https://www.abstractenterprisessecuritysystems.com/"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much hard drive space does an NVR need?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on camera count, resolution, compression and how many days you keep. As a planning figure, one 4K camera recording continuously uses roughly 40 to 60 GB a day, so eight 4K cameras for 30 days is around 8 to 12 TB. Motion-only recording and H.265 reduce that. Run your own numbers in a storage calculator before buying drives."}}, {"@type": "Question", "name": "Can I use cameras from a different brand on my NVR?", "acceptedAnswer": {"@type": "Answer", "text": "Often yes, through the ONVIF standard, but not always with every feature. Basic video usually works; smart detection and some alerts may only work when camera and recorder are the same brand. Confirm compatibility before buying."}}, {"@type": "Question", "name": "Why can't I see my NVR cameras from my phone when I'm away?", "acceptedAnswer": {"@type": "Answer", "text": "In NYC the usual causes are an internet plan that uses carrier-grade NAT, a public IP that keeps changing, or a router that lost its settings. Switching to the maker's P2P service, a VPN, or a static-IP business line typically solves it."}}, {"@type": "Question", "name": "Do I need RAID on a home camera system?", "acceptedAnswer": {"@type": "Answer", "text": "Not always. For a few home cameras a single drive is a fair risk; for a business or multi-family building, a mirrored or parity array is worth it."}}, {"@type": "Question", "name": "Where should the NVR go in a NYC apartment building?", "acceptedAnswer": {"@type": "Answer", "text": "Usually in a locked space near where the cable risers start, such as a super's closet, meter room or basement utility area, with the owner's written permission, a dedicated outlet, airflow and a battery backup."}}, {"@type": "Question", "name": "Are there monthly fees with an NVR?", "acceptedAnswer": {"@type": "Answer", "text": "No subscription is required for local recording. The recorder stores video on its own drives, and remote viewing through the manufacturer's app is normally free."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "NYC Security Guides", "item": "https://support677.github.io/nyc-security-guides/"}, {"@type": "ListItem", "position": 2, "name": "Security Camera Installation NYC", "item": "https://support677.github.io/nyc-security-guides/security-camera-installation-nyc/"}, {"@type": "ListItem", "position": 3, "name": "NVR Installation NYC", "item": "https://support677.github.io/nyc-security-guides/nvr-installation-nyc/"}]}]}</script>
+<style>
+:root{--bg:#f6f8fc;--card:#fff;--ink:#0d1b3d;--muted:#55607a;--navy:#0b2a6b;--royal:#1f5fe0;--line:#dfe5f1}
+@media (prefers-color-scheme:dark){:root{--bg:#0b1020;--card:#131a2e;--ink:#e8edf8;--muted:#9aa6c2;--navy:#9db8ff;--royal:#5b8cff;--line:#26304a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:820px;margin:0 auto;padding:24px 16px 60px}
+nav.crumbs{font-size:.85rem;color:var(--muted);margin-bottom:8px}
+nav.crumbs a{color:var(--muted)}
+h1{font-size:clamp(1.6rem,4.6vw,2.3rem);line-height:1.2;margin:.2em 0 .3em;color:var(--navy)}
+.by{color:var(--muted);font-size:.9rem;margin:0 0 22px}
+h2{font-size:1.35rem;margin:34px 0 10px;color:var(--navy)}
+h3{font-size:1.05rem;margin:20px 0 6px}
+table{width:100%;border-collapse:collapse;font-size:.95rem;margin:12px 0}
+th,td{padding:9px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{color:var(--muted);font-weight:600}
+.tablewrap{overflow-x:auto}
+.cta{background:var(--navy);color:#fff;border-radius:14px;padding:22px;margin:30px 0}
+@media (prefers-color-scheme:dark){.cta{background:#16306f}}
+.cta h2{color:#fff;margin-top:0}
+.cta a{color:#fff;font-weight:700}
+.btn{display:inline-block;background:var(--royal);color:#fff!important;text-decoration:none;padding:12px 18px;border-radius:10px;margin-top:8px}
+.related{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-top:26px}
+a{color:var(--royal)}
+footer{color:var(--muted);font-size:.85rem;margin-top:30px}
+</style>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQRKJPL2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="wrap">
+<nav class="crumbs"><a href="../">NYC Security Guides</a> › <a href="../security-camera-installation-nyc/">Security Camera Installation NYC</a> › NVR Installation NYC</nav>
+<h1>NVR Installation NYC: Work Backward From the Footage You Need, Then Pick the Box</h1>
+<p class="by">By Abstract Enterprises Security Systems — licensed NYS low-voltage contractor, in security since 2000 · Updated 2026-11-11</p>
+
+<p>NVR Installation NYC jobs go wrong in a predictable way: someone buys the recorder first and asks how much footage it holds later. This guide flips that order. You start with the number of days you must be able to go back, work out channels and storage from there, decide where the box can physically live in your building, and only then choose hardware. If you would rather hand the whole thing off, our <a href="https://www.abstractenterprisessecuritysystems.com/nvr-installation-nyc?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=nvr-installation-nyc&amp;utm_content=nyc-security-guides">NVR Installation NYC</a> page covers what Abstract Enterprises Security Systems installs and configures across the five boroughs.</p>
+
+<h2>Step 1: Decide the retention number first</h2>
+<p>Retention is the single figure that drives everything else. Ask who is going to come asking for video and how late they tend to ask. Package-theft complaints usually arrive within days; chargebacks and insurance or injury letters can come weeks or a month later. Thirty days is a common floor for small businesses.</p>
+<p>Next, count cameras now and cameras you will probably add. Almost nobody stays at the first count, so a recorder with no spare inputs becomes a replacement project the first time you want one more view of the back door. AESS plans 25 to 50 percent spare channels for that reason.</p>
+
+<h2>Step 2: Turn days into terabytes</h2>
+<p>Storage depends on resolution, frame rate, compression (H.265 is far lighter than H.264), and whether cameras record around the clock or only on motion. As a rough planning figure, the AESS NVR page puts one continuously recording 4K camera at about 40 to 60 GB per day, which means eight 4K cameras held for 30 days lands somewhere around 8 to 12 TB. To run your own numbers, plug your cameras into the free <a href="https://support677.github.io/security-camera-storage-calculator/">security camera storage calculator</a> and compare the result with the drive bays on any recorder you are considering.</p>
+<p>Then ask what happens when a drive dies. Surveillance drives write nonstop and eventually wear out. A two-drive mirror (RAID 1) or a parity array (RAID 5 or 6) on a larger unit lets one drive fail without losing anything. For a home with a few cameras a single drive may be an acceptable risk; for a store, a multi-family building or a warehouse it usually is not.</p>
+
+<h2>Step 3: Pick the architecture</h2>
+<div class="tablewrap"><table>
+<tr><th>Setup</th><th>Good fit</th><th>Watch out for</th></tr>
+<tr><td>NVR with built-in PoE ports</td><td>Homes, brownstones, small shops with 4 to 16 cameras and one cable home-run per camera</td><td>Every camera cable has to reach the recorder's location; the PoE power budget is shared</td></tr>
+<tr><td>NVR plus separate PoE switch</td><td>Larger buildings, cameras on several floors, sites that want a managed switch to reboot a camera remotely</td><td>One more box needing power and ventilation; plan the switch location with the cabling</td></tr>
+<tr><td>Keeping an old DVR on coax</td><td>Short-term only, when the analog cameras still work and the budget is tight</td><td>Lower picture detail, aging hardware, weaker remote access; plan a migration path to IP</td></tr>
+</table></div>
+<p>Mixing brands through ONVIF usually works for basic video, but smart alerts often need a matched camera and recorder. Check before buying.</p>
+
+<h2>Step 4: Find the recorder a home in your building</h2>
+<p>Common spots and their trade-offs:</p>
+<ul>
+<li><strong>Basement or cellar of a brownstone or row house.</strong> Short runs to the rear yard and cellar door, but keep the unit off the floor where there is any history of water, and away from the boiler.</li>
+<li><strong>Super's closet or meter room in a walk-up or elevator building.</strong> Usually where the risers start, so cabling is easier. Get written permission from the owner or managing agent, and make sure the closet locks.</li>
+<li><strong>Back office of a storefront.</strong> Convenient for the owner, but a recorder sitting next to the register is the first thing a burglar takes. A locked cabinet or a less obvious shelf helps.</li>
+<li><strong>IT room in an office building.</strong> Rack space and network are already there; expect to coordinate with the building's IT staff.</li>
+</ul>
+<p>Wherever it goes, the box needs airflow, a dedicated outlet, and ideally a small battery backup so a brief outage or brownout does not interrupt recording or corrupt a drive.</p>
+
+<h2>Step 5: Plan remote viewing around your actual internet</h2>
+<p>Reddit is full of recorders that will not stay connected to the phone app. In the city the culprit is often the internet plan: some providers and many 5G home plans share one public address among customers, so classic port forwarding cannot work, and other lines change address without warning. The fix is usually the manufacturer's P2P service, a VPN to the building, or a business line with a static address. Whatever route is chosen, every default password gets changed and unused services get switched off, because recorders left open to the internet are scanned and broken into routinely.</p>
+
+<h2>What install day looks like</h2>
+<ol>
+<li>Walk the building with the owner, super or office manager.</li>
+<li>Mount the recorder and switch, connect power and battery backup, and land each camera cable on a labeled port.</li>
+<li>Install and format drives, set up RAID if specified, and confirm the reported capacity.</li>
+<li>Add each camera, name it by location, set resolution, frame rate and recording schedule, and draw motion zones.</li>
+<li>Set the clock and time zone and sync it to a time server, so exported clips carry trustworthy timestamps.</li>
+<li>Configure remote access, install the app on the owner's phones, and test from outside the building's network.</li>
+<li>Export a short test clip together, so you know how to hand video to police or an insurer before you ever need to.</li>
+</ol>
+
+<h2>Handover checklist</h2>
+<ul>
+<li>Admin password stored somewhere other than a sticky note on the recorder</li>
+<li>Separate user logins for staff, the super or a management company, with view-only rights where appropriate</li>
+<li>A one-page map showing which port feeds which camera</li>
+<li>The calculated days of retention, and a reminder to check the oldest recording date every month</li>
+</ul>
+
+<h2>What it typically costs</h2>
+<p>The AESS NVR page lists four bands. Setting up hardware you already own: $220 to $480. A new eight-channel build with recorder, PoE and a properly sized drive: $650 to $1,500, with cameras and cable extra. Larger 16- to 32-channel or RAID jobs for businesses: from $1,600 to $5,500 or more, quoted after a site visit. Upgrades, migrations and repairs: $190 to $900. AESS fixes the price once it has seen the system, and recording locally carries no monthly cloud fee.</p>
+
+<div class="cta">
+<h2>Get a price for NVR installation in NYC</h2>
+<p>Tell us how many cameras you have (or plan), how many days of video you need to keep, and where the recorder can live. We will size the channels, drives and network and give you a fixed price after we see the building.</p>
+<a class="btn" href="https://www.abstractenterprisessecuritysystems.com/nvr-installation-nyc?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=nvr-installation-nyc&amp;utm_content=nyc-security-guides">NVR Installation NYC</a>
+<p style="margin:12px 0 0">Or call/text <a href="tel:+18004860943">(800) 486-0943</a></p>
+</div>
+
+<h2>Frequently asked questions</h2>
+<h3>How much hard drive space does an NVR need?</h3>
+<p>It depends on camera count, resolution, compression and how many days you keep. As a planning figure, one 4K camera recording continuously uses roughly 40 to 60 GB a day, so eight 4K cameras for 30 days is around 8 to 12 TB. Motion-only recording and H.265 reduce that. Run your own numbers in a storage calculator before buying drives.</p>
+<h3>Can I use cameras from a different brand on my NVR?</h3>
+<p>Often yes, through the ONVIF standard, but not always with every feature. Basic video usually works; smart detection and some alerts may only work when camera and recorder are the same brand. Confirm compatibility before buying.</p>
+<h3>Why can't I see my NVR cameras from my phone when I'm away?</h3>
+<p>In NYC the usual causes are an internet plan that uses carrier-grade NAT, a public IP that keeps changing, or a router that lost its settings. Switching to the maker's P2P service, a VPN, or a static-IP business line typically solves it.</p>
+<h3>Do I need RAID on a home camera system?</h3>
+<p>Not always. For a few home cameras a single drive is a fair risk; for a business or multi-family building, a mirrored or parity array is worth it.</p>
+<h3>Where should the NVR go in a NYC apartment building?</h3>
+<p>Usually in a locked space near where the cable risers start, such as a super's closet, meter room or basement utility area, with the owner's written permission, a dedicated outlet, airflow and a battery backup.</p>
+<h3>Are there monthly fees with an NVR?</h3>
+<p>No subscription is required for local recording. The recorder stores video on its own drives, and remote viewing through the manufacturer's app is normally free.</p>
+
+<div class="related">
+<h2 style="margin-top:0">Related guides</h2>
+<ul><li><a href="../security-camera-installation-nyc/">Security Camera Installation NYC</a> (main guide)</li><li><a href="../dvr-upgrade-nyc/">DVR Upgrade NYC</a></li><li><a href="../commercial-security-camera-installation-nyc/">Commercial Security Camera Installation NYC</a></li><li><a href="https://support677.github.io/security-camera-storage-calculator/">Security camera storage calculator</a></li><li><a href="../">All NYC security guides</a></li></ul>
+</div>
+
+<footer><a href="../">All NYC security guides</a> · Made by <a href="https://www.abstractenterprisessecuritysystems.com/?utm_source=github&utm_medium=referral&utm_campaign=nyc-security-guides&utm_content=footer">Abstract Enterprises Security Systems</a> — serving all five NYC boroughs, Long Island and the Hudson Valley.</footer>
+</div>
+</body>
+</html>

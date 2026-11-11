@@ -52,3 +52,6 @@ date | phrase | guide url | AESS page
 2026-11-11 | network cable repair NYC | https://support677.github.io/nyc-security-guides/network-cable-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/network-cable-repair-nyc
 2026-11-11 | network installation NYC | https://support677.github.io/nyc-security-guides/network-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/network-installation-nyc
 2026-11-11 | Night Owl camera installation NYC | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-nyc
+2026-11-11 | NVR installation NYC | https://support677.github.io/nyc-security-guides/nvr-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/nvr-installation-nyc
+2026-11-11 | parking lot camera installation NYC | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-nyc
+2026-11-11 | Reolink camera installation NYC | https://support677.github.io/nyc-security-guides/reolink-camera-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-nyc
