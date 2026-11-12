@@ -71,3 +71,6 @@
 2026-11-12 | https://support677.github.io/nyc-security-guides/access-control-installation-long-island/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/security-camera-repair-long-island/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/door-buzzer-repair-long-island-ny/ | QUEUED
+2026-11-12 | https://support677.github.io/nyc-security-guides/alarm-installation-long-island/ | QUEUED
+2026-11-12 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-long-island/ | QUEUED
+2026-11-12 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-long-island/ | QUEUED
