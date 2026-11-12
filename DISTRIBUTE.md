@@ -61,3 +61,6 @@ date | phrase | guide url | AESS page
 2026-11-11 | smart lock installation NYC | https://support677.github.io/nyc-security-guides/smart-lock-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-nyc
 2026-11-11 | Smart PSS support setup NYC | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-nyc/ | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-nyc
 2026-11-11 | solar surveillance trailer NYC | https://support677.github.io/nyc-security-guides/solar-surveillance-trailer-nyc/ | https://www.abstractenterprisessecuritysystems.com/solar-surveillance-trailer-nyc
+2026-11-12 | Sonos installation NYC | https://support677.github.io/nyc-security-guides/sonos-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nyc
+2026-11-12 | soundbar installation NYC | https://support677.github.io/nyc-security-guides/soundbar-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nyc
+2026-11-12 | Super Live Plus app support repair NYC | https://support677.github.io/nyc-security-guides/super-live-plus-app-support-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-nyc
