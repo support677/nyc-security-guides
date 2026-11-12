@@ -65,3 +65,6 @@
 2026-11-12 | https://support677.github.io/nyc-security-guides/sonos-installation-nyc/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/soundbar-installation-nyc/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/super-live-plus-app-support-repair-nyc/ | QUEUED
+2026-11-12 | https://support677.github.io/nyc-security-guides/security-camera-installation-long-island-ny/ | QUEUED
+2026-11-12 | https://support677.github.io/nyc-security-guides/intercom-installation-long-island-ny/ | QUEUED
+2026-11-12 | https://support677.github.io/nyc-security-guides/intercom-repair-long-island/ | QUEUED

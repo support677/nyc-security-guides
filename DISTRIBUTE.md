@@ -64,3 +64,6 @@ date | phrase | guide url | AESS page
 2026-11-12 | Sonos installation NYC | https://support677.github.io/nyc-security-guides/sonos-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nyc
 2026-11-12 | soundbar installation NYC | https://support677.github.io/nyc-security-guides/soundbar-installation-nyc/ | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nyc
 2026-11-12 | Super Live Plus app support repair NYC | https://support677.github.io/nyc-security-guides/super-live-plus-app-support-repair-nyc/ | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-nyc
+2026-11-12 | security camera installation Long Island | https://support677.github.io/nyc-security-guides/security-camera-installation-long-island-ny/ | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-long-island-ny
+2026-11-12 | intercom installation Long Island | https://support677.github.io/nyc-security-guides/intercom-installation-long-island-ny/ | https://www.abstractenterprisessecuritysystems.com/intercom-installation-long-island-ny
+2026-11-12 | intercom repair Long Island | https://support677.github.io/nyc-security-guides/intercom-repair-long-island/ | https://www.abstractenterprisessecuritysystems.com/intercom-repair-long-island
