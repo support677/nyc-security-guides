@@ -74,3 +74,6 @@
 2026-11-12 | https://support677.github.io/nyc-security-guides/alarm-installation-long-island/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-long-island/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-long-island/ | QUEUED
+2026-11-13 | https://support677.github.io/nyc-security-guides/security-camera-installation-hudson-valley-ny/ | QUEUED
+2026-11-13 | https://support677.github.io/nyc-security-guides/intercom-installation-hudson-valley-ny/ | QUEUED
+2026-11-13 | https://support677.github.io/nyc-security-guides/intercom-repair-hudson-valley/ | QUEUED
