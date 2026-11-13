@@ -80,3 +80,6 @@
 2026-11-13 | https://support677.github.io/nyc-security-guides/access-control-installation-hudson-valley/ | QUEUED
 2026-11-13 | https://support677.github.io/nyc-security-guides/security-camera-repair-hudson-valley/ | QUEUED
 2026-11-13 | https://support677.github.io/nyc-security-guides/door-buzzer-repair-hudson-valley-ny/ | QUEUED
+2026-11-13 | https://support677.github.io/nyc-security-guides/alarm-installation-hudson-valley/ | QUEUED
+2026-11-13 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-hudson-valley/ | QUEUED
+2026-11-13 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-hudson-valley/ | QUEUED
