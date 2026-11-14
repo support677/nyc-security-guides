@@ -1,6 +1,6 @@
-# 2026 NYC Home & Small Business Security Report — Data from 362 AESS Jobs
+# 2026 NYC Home & Small Business Security Report — Data from 362 Abstract Enterprises Security Systems Jobs
 
-*Published November 7, 2026 by Abstract Enterprises Security Systems (AESS) — licensed NYS low-voltage contractor, in security since 2000.*
+*Published November 7, 2026 by Abstract Enterprises Security Systems — licensed NYS low-voltage contractor, in security since 2000.*
 
 Most "security trends" articles are written from surveys or manufacturer press releases. This one comes from work orders. We pulled every job Abstract Enterprises Security Systems booked between January 3 and November 6, 2026 — 362 jobs across the five boroughs, Long Island, Westchester and the Hudson Valley — plus 690 security-related calls to our phone line, and counted what New Yorkers actually paid to have installed, fixed and explained.
 
@@ -108,10 +108,10 @@ Work was steady at roughly 30 to 35 jobs a month from spring through summer, dip
 
 **Everyone.** Fall is our busiest season. If you want work done before the holidays, book in September rather than late October.
 
-## About AESS
+## About Abstract Enterprises Security Systems
 
-Abstract Enterprises Security Systems, Inc. is a licensed New York State low-voltage contractor. Owner Anwar Timothy has worked in security since 2000 and has run the company since 2002 — more than 25 years. AESS installs and repairs security cameras, intercoms and door buzzers, access control and mag locks, alarms, structured cabling and Wi-Fi, TV mounting, video walls and outdoor LED screens across all five NYC boroughs, Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess and Ulster. Hours are 8 AM to 8 PM, seven days a week.
+Abstract Enterprises Security Systems, Inc. is a licensed New York State low-voltage contractor. Owner Anwar Timothy has worked in security since 2000 and has run the company since 2002 — more than 25 years. Abstract Enterprises Security Systems installs and repairs security cameras, intercoms and door buzzers, access control and mag locks, alarms, structured cabling and Wi-Fi, TV mounting, video walls and outdoor LED screens across all five NYC boroughs, Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess and Ulster. Hours are 8 AM to 8 PM, seven days a week.
 
 Get a price or book a visit at **[abstractenterprisessecuritysystems.com](https://www.abstractenterprisessecuritysystems.com/?utm_source=github&utm_medium=report&utm_campaign=security-report-2026)** or call (800) 486-0943.
 
-*Data sources: AESS Housecall Pro job and invoice records (589 job records created Jan 1 – Nov 6, 2026, of which 362 booked; 506 invoices) and AESS phone-line call summaries (3,658 inbound calls, Jan 1 – Nov 7, 2026). Aggregated by AESS on November 7, 2026. Citation: "2026 NYC Home & Small Business Security Report," Abstract Enterprises Security Systems, November 2026.*
+*Data sources: Abstract Enterprises Security Systems Housecall Pro job and invoice records (589 job records created Jan 1 – Nov 6, 2026, of which 362 booked; 506 invoices) and Abstract Enterprises Security Systems phone-line call summaries (3,658 inbound calls, Jan 1 – Nov 7, 2026). Aggregated by Abstract Enterprises Security Systems on November 7, 2026. Citation: "2026 NYC Home & Small Business Security Report," Abstract Enterprises Security Systems, November 2026.*

@@ -1,6 +1,7 @@
 # NYC Security Guides — build rules (read fully before every run)
 
-Owner: Anwar Timothy, Abstract Enterprises Security Systems (AESS), licensed NYS low-voltage contractor, in security since 2000.
+Owner: Anwar Timothy, Abstract Enterprises Security Systems, licensed NYS low-voltage contractor, in security since 2000.
+BUSINESS NAME RULE: in anything published (titles, headings, body, meta, schema, FAQs, alt text, link text) always write the full name "Abstract Enterprises Security Systems". NEVER write the abbreviation "AESS" — it is not the brand and nobody searches for it.
 Live site: https://support677.github.io/nyc-security-guides/  ·  Repo: support677/nyc-security-guides (branch main, GitHub Pages from root).
 Purpose: parasite SEO + real backlinks. Each guide targets ONE exact "service × area" search phrase, mirrors one page on
 abstractenterprisessecuritysystems.com, and links to it with a normal (followed) link.
@@ -21,7 +22,7 @@ fire-alarm-installation, then all others. Within one service, hub order = nyc, l
 Interleave services (don't do 30 areas of one service in a row): take the next undone slug of each service in priority order, round-robin.
 
 ## 2. Research before writing (every guide)
-- Open the matching AESS page (https://www.abstractenterprisessecuritysystems.com/<slug>) with Firecrawl. Take ONLY facts from it: services, what's included, area price (if the page shows one), warranty, hours. Never invent a price; if the page has no price, say pricing is on the page and link it.
+- Open the matching Abstract Enterprises Security Systems page (https://www.abstractenterprisessecuritysystems.com/<slug>) with Firecrawl. Take ONLY facts from it: services, what's included, area price (if the page shows one), warranty, hours. Never invent a price; if the page has no price, say pricing is on the page and link it.
 - Firecrawl search the exact phrase plus variants ("<service> <area> cost", "<service> <area> reddit", "<area> <service> landlord/co-op/permit") and read 2–4 real results: People Also Ask style questions, Reddit threads, local rules. FAQs come from those real questions.
 - Local specifics for the area: housing/building stock (brownstones, co-ops, pre-war walk-ups, garden apartments, strip malls, big-lot homes), who usually approves the work (landlord, co-op board, HOA), weather/exposure, noise-hour rules for that city/town, parking/access issues. Only what you can support; no made-up statistics.
 
@@ -30,17 +31,17 @@ Interleave services (don't do 30 areas of one service in a row): take the next u
 - `<title>` and H1 START with the exact phrase in title case: e.g. "Security Camera Installation Brooklyn: …". Meta description starts with the same phrase, ≤155 chars.
 - First sentence starts with the exact phrase.
 - 900–1,500 words. Angle and section order vary by service and area — do not reuse the same outline every time. Mix from: cost & what drives it, building/landlord rules, a comparison table (e.g. wired vs Wi-Fi, repair vs replace, audio vs video intercom), a step-by-step "what happens on install day", a checklist "questions to ask any installer", common problems in that building type, a short local scenario (no customer names/addresses).
-- NEVER copy sentences from the AESS page or another guide: no run of 8+ identical words. Write fresh.
+- NEVER copy sentences from the Abstract Enterprises Security Systems page or another guide: no run of 8+ identical words. Write fresh.
 - 4–6 FAQs from the real questions found; FAQPage JSON-LD matching the visible FAQs; also Article + BreadcrumbList JSON-LD; `<link rel="canonical">` = the guide's own URL.
 - Links (plain followed `<a>`, no nofollow):
-  - The matching AESS page, with anchor = the exact phrase, at least twice (intro + CTA): `https://www.abstractenterprisessecuritysystems.com/<slug>?utm_source=github&utm_medium=referral&utm_campaign=<slug>&utm_content=nyc-security-guides`
+  - The matching Abstract Enterprises Security Systems page, with anchor = the exact phrase, at least twice (intro + CTA): `https://www.abstractenterprisessecuritysystems.com/<slug>?utm_source=github&utm_medium=referral&utm_campaign=<slug>&utm_content=nyc-security-guides`
   - Parent guide (neighborhood → borough/county guide → hub guide) if it exists in this repo; 2 related guides that exist (same area other service, or same service nearby area).
   - The storage calculator https://support677.github.io/security-camera-storage-calculator/ on camera topics.
   - Back to the guides index `../`.
-- CTA box: "Get a price" → the AESS page; toll-free (800) 486-0943.
+- CTA box: "Get a price" → the Abstract Enterprises Security Systems page; toll-free (800) 486-0943.
 - Byline: "By Abstract Enterprises Security Systems — licensed NYS low-voltage contractor, in security since 2000." Date = today.
-- Never: fake reviews/testimonials, customer names or addresses, license numbers, competitor bashing, prices not on the AESS site, AI-sounding filler ("in today's fast-paced world").
-- Do not mention the AESS warranty/cancellation terms beyond what the AESS page itself says.
+- Never: fake reviews/testimonials, customer names or addresses, license numbers, competitor bashing, prices not on the Abstract Enterprises Security Systems site, AI-sounding filler ("in today's fast-paced world").
+- Do not mention the Abstract Enterprises Security Systems warranty/cancellation terms beyond what the Abstract Enterprises Security Systems page itself says.
 
 ## 4. Publish (one commit per run)
 In ONE `GITHUB_COMMIT_MULTIPLE_FILES` (Composio, account support677, repo nyc-security-guides, branch main):
@@ -53,9 +54,9 @@ Read the current index.html/sitemap.xml/LOG.md from the repo first and send full
 ## 5. After publishing
 - Verify each new URL with Firecrawl (GitHub Pages can take 1–3 min; retry once after a wait). Report any that 404.
 - Append each new guide URL to `INDEXING.md` as `YYYY-MM-DD | <url> | QUEUED` (the Chrome indexing task works that queue).
-- Append the new guide URLs to `DISTRIBUTE.md` (date | phrase | guide url | AESS page) — the LinkedIn and social posting tasks pick links from there.
+- Append the new guide URLs to `DISTRIBUTE.md` (date | phrase | guide url | Abstract Enterprises Security Systems page) — the LinkedIn and social posting tasks pick links from there.
 - Do NOT submit the sitemap by API: the Search Console property is owned by support@abstractenterprisessecuritysystems.com (not the openeyesales Composio connection). The sitemap was submitted once in the UI; Google re-reads it on its own.
 
 GSC_VERIFIED: yes (Nov 7 2026)
-GSC_ACCOUNT: support@abstractenterprisessecuritysystems.com — kept separate from openeyesales (main AESS site) so the guides get their own daily "Request indexing" allowance
+GSC_ACCOUNT: support@abstractenterprisessecuritysystems.com — kept separate from openeyesales (main Abstract Enterprises Security Systems site) so the guides get their own daily "Request indexing" allowance
 GSC_PROPERTY: https://support677.github.io/nyc-security-guides/
