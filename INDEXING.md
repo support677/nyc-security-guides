@@ -86,3 +86,6 @@
 2026-11-13 | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-long-island/ | QUEUED
 2026-11-13 | https://support677.github.io/nyc-security-guides/tv-installation-long-island/ | QUEUED
 2026-11-13 | https://support677.github.io/nyc-security-guides/cat6-installation-long-island/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-long-island/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/fire-alarm-installation-long-island-ny/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-long-island/ | QUEUED
