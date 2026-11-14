@@ -7,17 +7,17 @@
 2026-11-07 | https://support677.github.io/nyc-security-guides/access-control-installation-nyc/ | REQUESTED 2026-11-07 (manual, Anwar)
 2026-11-07 | https://support677.github.io/nyc-security-guides/security-camera-repair-nyc/ | REQUESTED 2026-11-07 (manual, Anwar)
 2026-11-07 | https://support677.github.io/nyc-security-guides/door-buzzer-repair-nyc/ | REQUESTED 2026-11-07 (manual, Anwar)
-2026-11-07 | https://support677.github.io/nyc-security-guides/alarm-installation-nyc/ | QUEUED
-2026-11-07 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-nyc/ | QUEUED
-2026-11-07 | https://support677.github.io/nyc-security-guides/apartment-intercom-system-nyc/ | QUEUED
-2026-11-07 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-nyc/ | QUEUED
-2026-11-07 | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-nyc/ | QUEUED
-2026-11-07 | https://support677.github.io/nyc-security-guides/tv-installation-nyc/ | QUEUED
-2026-11-07 | https://support677.github.io/nyc-security-guides/report-2026/ | QUEUED
-2026-11-08 | https://support677.github.io/nyc-security-guides/cat6-installation-nyc/ | QUEUED
-2026-11-08 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-nyc/ | QUEUED
-2026-11-08 | https://support677.github.io/nyc-security-guides/fire-alarm-installation-nyc/ | QUEUED
-2026-11-08 | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-nyc/ | QUEUED
+2026-11-07 | https://support677.github.io/nyc-security-guides/alarm-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-07 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-07 | https://support677.github.io/nyc-security-guides/apartment-intercom-system-nyc/ | REQUESTED 2026-11-14
+2026-11-07 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-07 | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-07 | https://support677.github.io/nyc-security-guides/tv-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-07 | https://support677.github.io/nyc-security-guides/report-2026/ | REQUESTED 2026-11-14
+2026-11-08 | https://support677.github.io/nyc-security-guides/cat6-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-08 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-08 | https://support677.github.io/nyc-security-guides/fire-alarm-installation-nyc/ | REQUESTED 2026-11-14
+2026-11-08 | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-nyc/ | REQUESTED 2026-11-14
 2026-11-08 | https://support677.github.io/nyc-security-guides/amcrest-camera-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/annke-camera-installation-nyc/ | QUEUED
 2026-11-08 | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-nyc/ | QUEUED
