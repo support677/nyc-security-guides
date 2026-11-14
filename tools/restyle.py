@@ -77,6 +77,9 @@ nav.crumbs a{color:#cfe0f5}
 .silo-footer a:hover{color:var(--accent)}
 footer.bottom{background:#06182f;color:#9fb1c8;padding:22px 0;text-align:center;font-size:.85rem}
 footer.bottom a{color:#d4e1f0}
+.photo{margin:24px 0}
+.photo img{display:block;width:100%;height:auto;max-height:460px;object-fit:cover;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,.08)}
+.photo figcaption{font-size:.82rem;color:#6e7894;margin-top:6px}
 .sticky-bar{position:fixed;bottom:0;left:0;right:0;background:linear-gradient(90deg,var(--brand) 0%,var(--brand2) 100%);padding:11px 14px;display:flex;justify-content:space-around;align-items:center;box-shadow:0 -4px 18px rgba(0,0,0,.2);z-index:90;gap:8px}
 .sticky-bar a{color:#fff;text-decoration:none;font-weight:800;font-size:.94rem;background:rgba(255,255,255,.13);padding:8px 14px;border-radius:7px;text-align:center;flex:1}
 .sticky-bar a.primary{background:var(--accent);color:#000}
