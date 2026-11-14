@@ -89,3 +89,6 @@
 2026-11-14 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-long-island/ | QUEUED
 2026-11-14 | https://support677.github.io/nyc-security-guides/fire-alarm-installation-long-island-ny/ | QUEUED
 2026-11-14 | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-long-island/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/amcrest-camera-installation-long-island/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/annke-camera-installation-long-island/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-long-island/ | QUEUED
