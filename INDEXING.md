@@ -98,3 +98,6 @@
 2026-11-14 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-hudson-valley/ | QUEUED
 2026-11-14 | https://support677.github.io/nyc-security-guides/fire-alarm-installation-hudson-valley-ny/ | QUEUED
 2026-11-14 | https://support677.github.io/nyc-security-guides/alarm-com-camera-installation-hudson-valley/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/amcrest-camera-installation-hudson-valley/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/annke-camera-installation-hudson-valley/ | QUEUED
+2026-11-14 | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-hudson-valley/ | QUEUED
