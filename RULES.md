@@ -35,7 +35,7 @@ Interleave services (don't do 30 areas of one service in a row): take the next u
 - 4–6 FAQs from the real questions found; FAQPage JSON-LD matching the visible FAQs; also Article + BreadcrumbList JSON-LD; `<link rel="canonical">` = the guide's own URL.
 - Links (plain followed `<a>`, no nofollow):
   - The matching Abstract Enterprises Security Systems page, with anchor = the exact phrase, at least twice (intro + CTA): `https://www.abstractenterprisessecuritysystems.com/<slug>?utm_source=github&utm_medium=referral&utm_campaign=<slug>&utm_content=nyc-security-guides`
-  - Parent guide (neighborhood → borough/county guide → hub guide) if it exists in this repo; 2 related guides that exist (same area other service, or same service nearby area).
+  - Parent guide (neighborhood → borough/county guide → hub guide) if it exists in this repo (also covered by the HUBNAV block, section 4); 2 related guides that exist (same area other service, or same service nearby area).
   - The storage calculator https://support677.github.io/security-camera-storage-calculator/ on camera topics.
   - Back to the guides index `../`.
 - CTA box: "Get a price" → the Abstract Enterprises Security Systems page; toll-free (800) 486-0943.
@@ -44,12 +44,15 @@ Interleave services (don't do 30 areas of one service in a row): take the next u
 - Do not mention the Abstract Enterprises Security Systems warranty/cancellation terms beyond what the Abstract Enterprises Security Systems page itself says.
 
 ## 4. Publish (one commit per run)
+The guides site is structured EXACTLY like the Abstract Enterprises Security Systems website: region hub → borough/county → neighborhood/town, one guide per website page, same slug.
+Regions: `nyc` (New York City), `long-island`, `hudson-valley`. Parent of a borough/county guide = the same service's hub guide in its region; parent of a neighborhood/town guide = the same service's borough/county guide (or the hub if that guide doesn't exist yet).
 In ONE `GITHUB_COMMIT_MULTIPLE_FILES` (Composio, account support677, repo nyc-security-guides, branch main):
-- the new `<slug>/index.html` files
-- `index.html`: insert one `<li>` per new guide right after `<!--GUIDES:START-->` (newest first): `<li><a href="<slug>/">Title</a> <span>· YYYY-MM-DD</span></li>`; update the count in `<span id="count">`.
+- the new `<slug>/index.html` files. Each new guide ends (right before `<footer>`) with a `<!--HUBNAV:START-->…<!--HUBNAV:END-->` block, same layout as the existing guides: "<Service Area> by area" heading with an empty `<!--CHILDREN:START--><!--CHILDREN:END-->` list (child guides go there), "<Service> in other regions" (same service, other hub guides), and "More <Region> guides" (every other guide in the same region/area). Use the existing guides' HUBNAV block as the template.
+- every PARENT guide of a new guide (and its hub if different): add `<li><a href="../<child-slug>/"><Short title></a></li>` inside its `<!--CHILDREN:START-->…<!--CHILDREN:END-->` (wrap the items in `<ul>`, replace the "added here as they are published" placeholder line, keep alphabetical). Also add the new guide to the "More <Region> guides" list of every guide in the same area.
+- `index.html`: a hub guide goes in its region section `<!--REGION:<region>:START-->…<!--REGION:<region>:END-->` as `<li><a href="<slug>/">Title</a> <span>· YYYY-MM-DD</span>` + `<!--CHILDREN:<slug>:START--><!--CHILDREN:<slug>:END--></li>`, alphabetical by title, and update that region's count in its `<h3>`. A borough/county/neighborhood guide goes as a nested `<ul><li>` inside its hub's `<!--CHILDREN:<hub-slug>:START-->…END-->` markers on the index (neighborhoods nested under their borough). Update the total in `<span id="count">`.
 - `sitemap.xml`: add `<url><loc>https://support677.github.io/nyc-security-guides/<slug>/</loc><lastmod>YYYY-MM-DD</lastmod></url>` per guide before `</urlset>`.
 - `LOG.md`: one line per guide: `YYYY-MM-DD | <slug> | <title> | <url> | <words> words`.
-Read the current index.html/sitemap.xml/LOG.md from the repo first and send full updated contents.
+Read the current files from the repo first and send full updated contents. Every guide still links to its EXACT matching page on abstractenterprisessecuritysystems.com (same slug), as in section 3.
 
 ## 5. After publishing
 - Verify each new URL with Firecrawl (GitHub Pages can take 1–3 min; retry once after a wait). Report any that 404.
