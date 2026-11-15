@@ -101,3 +101,6 @@
 2026-11-14 | https://support677.github.io/nyc-security-guides/amcrest-camera-installation-hudson-valley/ | QUEUED
 2026-11-14 | https://support677.github.io/nyc-security-guides/annke-camera-installation-hudson-valley/ | QUEUED
 2026-11-14 | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-hudson-valley/ | QUEUED
+2026-11-15 | https://support677.github.io/nyc-security-guides/arlo-camera-installation-long-island/ | QUEUED
+2026-11-15 | https://support677.github.io/nyc-security-guides/av-sound-installation-long-island/ | QUEUED
+2026-11-15 | https://support677.github.io/nyc-security-guides/avycon-camera-installation-long-island/ | QUEUED
