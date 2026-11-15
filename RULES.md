@@ -45,6 +45,7 @@ Interleave services (don't do 30 areas of one service in a row): take the next u
 - CTA box: "Get a price" → the Abstract Enterprises Security Systems page; toll-free (800) 486-0943.
 - Byline: "By Abstract Enterprises Security Systems — licensed NYS low-voltage contractor, in security since 2000." Date = today.
 - Never: fake reviews/testimonials, customer names or addresses, license numbers, competitor bashing, prices not on the Abstract Enterprises Security Systems site, AI-sounding filler ("in today's fast-paced world").
+- FIRE ALARM PRICING (Anwar, Nov 15 2026 — hard rule): never publish any price, range, "from $X" or cap for fire alarm work, even if the website page shows one — those figures are wrong. Fire alarm is mainly commercial and is quoted per building after an on-site survey; say that instead.
 - Do not mention the Abstract Enterprises Security Systems warranty/cancellation terms beyond what the Abstract Enterprises Security Systems page itself says.
 
 ## 4. Publish (one commit per run)
