@@ -107,3 +107,6 @@
 2026-11-15 | https://support677.github.io/nyc-security-guides/arlo-camera-installation-hudson-valley/ | QUEUED
 2026-11-15 | https://support677.github.io/nyc-security-guides/av-sound-installation-hudson-valley/ | QUEUED
 2026-11-15 | https://support677.github.io/nyc-security-guides/avycon-camera-installation-hudson-valley/ | QUEUED
+2026-11-15 | https://support677.github.io/nyc-security-guides/blink-camera-installation-long-island/ | QUEUED
+2026-11-15 | https://support677.github.io/nyc-security-guides/capture-camera-installation-long-island/ | QUEUED
+2026-11-15 | https://support677.github.io/nyc-security-guides/cat6-repair-long-island/ | QUEUED
