@@ -122,3 +122,6 @@
 2026-11-16 | https://support677.github.io/nyc-security-guides/cctv-installation-long-island/ | QUEUED
 2026-11-16 | https://support677.github.io/nyc-security-guides/dahua-camera-installation-hudson-valley/ | QUEUED
 2026-11-16 | https://support677.github.io/nyc-security-guides/dmss-app-support-repair-long-island/ | QUEUED
+2026-11-16 | https://support677.github.io/nyc-security-guides/door-buzzer-installation-long-island-ny/ | QUEUED
+2026-11-16 | https://support677.github.io/nyc-security-guides/dvr-upgrade-long-island/ | QUEUED
+2026-11-16 | https://support677.github.io/nyc-security-guides/elevator-access-control-installation-nyc/ | QUEUED
