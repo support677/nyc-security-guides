@@ -113,3 +113,6 @@
 2026-11-15 | https://support677.github.io/nyc-security-guides/blink-camera-installation-hudson-valley/ | QUEUED
 2026-11-15 | https://support677.github.io/nyc-security-guides/capture-camera-installation-hudson-valley/ | QUEUED
 2026-11-15 | https://support677.github.io/nyc-security-guides/cat6-repair-hudson-valley/ | QUEUED
+2026-11-16 | https://support677.github.io/nyc-security-guides/commercial-security-systems-long-island/ | QUEUED
+2026-11-16 | https://support677.github.io/nyc-security-guides/construction-site-security-camera-installation-long-island/ | QUEUED
+2026-11-16 | https://support677.github.io/nyc-security-guides/dahua-camera-installation-long-island/ | QUEUED
