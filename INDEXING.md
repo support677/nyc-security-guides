@@ -137,3 +137,9 @@
 2026-11-17 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-hudson-valley/ | QUEUED
 2026-11-17 | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-long-island/ | QUEUED
 2026-11-17 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-long-island/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/solar-surveillance-trailer-long-island/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/wireless-camera-installation-nyc/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/wireless-camera-installation-hudson-valley/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-hudson-valley/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-hudson-valley/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-long-island/ | QUEUED
