@@ -134,3 +134,6 @@
 2026-11-17 | https://support677.github.io/nyc-security-guides/elevator-access-control-installation-hudson-valley/ | QUEUED
 2026-11-17 | https://support677.github.io/nyc-security-guides/eufy-camera-installation-hudson-valley/ | QUEUED
 2026-11-17 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-long-island/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-hudson-valley/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-long-island/ | QUEUED
+2026-11-17 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-long-island/ | QUEUED
