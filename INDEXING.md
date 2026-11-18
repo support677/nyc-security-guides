@@ -143,3 +143,6 @@
 2026-11-17 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-hudson-valley/ | QUEUED
 2026-11-17 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-hudson-valley/ | QUEUED
 2026-11-17 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-long-island/ | QUEUED
+2026-11-18 | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-hudson-valley/ | QUEUED
+2026-11-18 | https://support677.github.io/nyc-security-guides/geovision-camera-installation-long-island/ | QUEUED
+2026-11-18 | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-long-island/ | QUEUED
