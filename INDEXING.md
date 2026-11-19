@@ -158,3 +158,6 @@
 2026-11-19 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-long-island/ | QUEUED
 2026-11-19 | https://support677.github.io/nyc-security-guides/network-cable-repair-long-island/ | QUEUED
 2026-11-19 | https://support677.github.io/nyc-security-guides/network-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/nvr-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-long-island/ | QUEUED
