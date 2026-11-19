@@ -155,3 +155,6 @@
 2026-11-18 | https://support677.github.io/nyc-security-guides/hikvision-security-camera-installation-hudson-valley-ny/ | QUEUED
 2026-11-18 | https://support677.github.io/nyc-security-guides/lorex-camera-installation-hudson-valley/ | QUEUED
 2026-11-18 | https://support677.github.io/nyc-security-guides/low-voltage-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/network-cable-repair-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/network-installation-long-island/ | QUEUED
