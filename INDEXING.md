@@ -161,3 +161,6 @@
 2026-11-19 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-long-island/ | QUEUED
 2026-11-19 | https://support677.github.io/nyc-security-guides/nvr-installation-long-island/ | QUEUED
 2026-11-19 | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/reolink-camera-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/ring-camera-installation-long-island/ | QUEUED
+2026-11-19 | https://support677.github.io/nyc-security-guides/school-security-camera-installation-long-island/ | QUEUED
