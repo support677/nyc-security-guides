@@ -28,17 +28,17 @@
 2026-11-08 | https://support677.github.io/nyc-security-guides/burglar-alarm-installation-nyc/ | REQUESTED 2026-11-16
 2026-11-09 | https://support677.github.io/nyc-security-guides/butterflymx-installation-nyc/ | REQUESTED 2026-11-16
 2026-11-09 | https://support677.github.io/nyc-security-guides/capture-camera-installation-nyc/ | REQUESTED 2026-11-16
-2026-11-09 | https://support677.github.io/nyc-security-guides/cat6-repair-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/commercial-security-systems-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/construction-site-security-camera-installation-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/dahua-camera-installation-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/dmss-app-support-repair-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/door-buzzer-installation-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/dvr-upgrade-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/eufy-camera-installation-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-nyc/ | QUEUED
-2026-11-09 | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-nyc/ | QUEUED
+2026-11-09 | https://support677.github.io/nyc-security-guides/cat6-repair-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/commercial-security-systems-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/construction-site-security-camera-installation-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/dahua-camera-installation-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/dmss-app-support-repair-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/door-buzzer-installation-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/dvr-upgrade-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/eufy-camera-installation-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-nyc/ | REQUESTED 2026-11-19
+2026-11-09 | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-nyc/ | REQUESTED 2026-11-19
+2026-11-10 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-nyc/ | REQUESTED 2026-11-19
 2026-11-10 | https://support677.github.io/nyc-security-guides/geovision-camera-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-nyc/ | QUEUED
 2026-11-10 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-nyc/ | QUEUED
