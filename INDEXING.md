@@ -170,3 +170,6 @@
 2026-11-20 | https://support677.github.io/nyc-security-guides/low-voltage-installation-hudson-valley/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-hudson-valley/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/network-cable-repair-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/network-installation-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/nvr-installation-hudson-valley/ | QUEUED
