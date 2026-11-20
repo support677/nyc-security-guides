@@ -176,3 +176,6 @@
 2026-11-20 | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-hudson-valley/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/reolink-camera-installation-hudson-valley/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/ring-camera-installation-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/school-security-camera-installation-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/security-camera-maintenance-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/smart-lock-installation-hudson-valley/ | QUEUED
