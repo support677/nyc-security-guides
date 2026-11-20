@@ -167,3 +167,6 @@
 2026-11-19 | https://support677.github.io/nyc-security-guides/security-camera-maintenance-long-island/ | QUEUED
 2026-11-19 | https://support677.github.io/nyc-security-guides/smart-lock-installation-long-island/ | QUEUED
 2026-11-19 | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-long-island/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/low-voltage-installation-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/network-cable-repair-hudson-valley/ | QUEUED
