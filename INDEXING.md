@@ -185,3 +185,6 @@
 2026-11-21 | https://support677.github.io/nyc-security-guides/sonos-installation-hudson-valley/ | QUEUED
 2026-11-21 | https://support677.github.io/nyc-security-guides/soundbar-installation-hudson-valley/ | QUEUED
 2026-11-21 | https://support677.github.io/nyc-security-guides/super-live-plus-app-support-repair-long-island/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/super-live-plus-app-support-repair-hudson-valley/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/tp-link-tapo-camera-installation-nyc/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/ubiquiti-camera-installation-nyc/ | QUEUED
