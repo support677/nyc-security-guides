@@ -179,3 +179,6 @@
 2026-11-20 | https://support677.github.io/nyc-security-guides/school-security-camera-installation-hudson-valley/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/security-camera-maintenance-hudson-valley/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/smart-lock-installation-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-hudson-valley/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/sonos-installation-long-island/ | QUEUED
+2026-11-20 | https://support677.github.io/nyc-security-guides/soundbar-installation-long-island/ | QUEUED
