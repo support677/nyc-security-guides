@@ -188,3 +188,6 @@
 2026-11-21 | https://support677.github.io/nyc-security-guides/super-live-plus-app-support-repair-hudson-valley/ | QUEUED
 2026-11-21 | https://support677.github.io/nyc-security-guides/tp-link-tapo-camera-installation-nyc/ | QUEUED
 2026-11-21 | https://support677.github.io/nyc-security-guides/ubiquiti-camera-installation-nyc/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/tp-link-tapo-camera-installation-long-island/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/ubiquiti-camera-installation-long-island/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/uniview-camera-installation-nyc/ | QUEUED
