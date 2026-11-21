@@ -182,3 +182,6 @@
 2026-11-20 | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-hudson-valley/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/sonos-installation-long-island/ | QUEUED
 2026-11-20 | https://support677.github.io/nyc-security-guides/soundbar-installation-long-island/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/sonos-installation-hudson-valley/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/soundbar-installation-hudson-valley/ | QUEUED
+2026-11-21 | https://support677.github.io/nyc-security-guides/super-live-plus-app-support-repair-long-island/ | QUEUED
