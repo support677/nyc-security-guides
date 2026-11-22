@@ -197,3 +197,6 @@
 2026-11-22 | https://support677.github.io/nyc-security-guides/security-cameras-nyc/ | QUEUED
 2026-11-22 | https://support677.github.io/nyc-security-guides/ubiquiti-camera-installation-hudson-valley/ | QUEUED
 2026-11-22 | https://support677.github.io/nyc-security-guides/uniview-camera-installation-long-island/ | QUEUED
+2026-11-22 | https://support677.github.io/nyc-security-guides/security-cameras-long-island/ | QUEUED
+2026-11-22 | https://support677.github.io/nyc-security-guides/uniview-camera-installation-hudson-valley/ | QUEUED
+2026-11-22 | https://support677.github.io/nyc-security-guides/warehouse-security-camera-installation-long-island/ | QUEUED
