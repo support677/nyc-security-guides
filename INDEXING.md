@@ -212,3 +212,6 @@
 2026-11-23 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-brooklyn/ | QUEUED
 2026-11-23 | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-brooklyn/ | QUEUED
 2026-11-23 | https://support677.github.io/nyc-security-guides/tv-installation-brooklyn/ | QUEUED
+2026-11-23 | https://support677.github.io/nyc-security-guides/cat6-installation-brooklyn/ | QUEUED
+2026-11-23 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-brooklyn/ | QUEUED
+2026-11-23 | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-brooklyn/ | QUEUED
