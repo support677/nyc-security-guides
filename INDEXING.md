@@ -39,17 +39,17 @@
 2026-11-09 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-nyc/ | REQUESTED 2026-11-19
 2026-11-09 | https://support677.github.io/nyc-security-guides/first-alert-camera-installation-nyc/ | REQUESTED 2026-11-19
 2026-11-10 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-nyc/ | REQUESTED 2026-11-19
-2026-11-10 | https://support677.github.io/nyc-security-guides/geovision-camera-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/hik-connect-app-support-repair-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/hanwha-camera-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/hikvision-security-camera-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/home-automation-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/home-security-system-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/lorex-camera-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/low-voltage-installation-nyc/ | QUEUED
-2026-11-10 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-nyc/ | QUEUED
+2026-11-10 | https://support677.github.io/nyc-security-guides/geovision-camera-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/hik-connect-app-support-repair-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/hanwha-camera-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/hikvision-security-camera-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/home-automation-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/home-security-system-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/lorex-camera-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/low-voltage-installation-nyc/ | REQUESTED 2026-11-22
+2026-11-10 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-nyc/ | REQUESTED 2026-11-22
 2026-11-11 | https://support677.github.io/nyc-security-guides/network-cable-repair-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/network-installation-nyc/ | QUEUED
 2026-11-11 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-nyc/ | QUEUED
