@@ -217,3 +217,6 @@ date | phrase | guide url | Abstract Enterprises Security Systems page
 2026-11-23 | Arlo Camera Installation Brooklyn | https://support677.github.io/nyc-security-guides/arlo-camera-installation-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/arlo-camera-installation-brooklyn
 2026-11-23 | AV Sound Installation Brooklyn | https://support677.github.io/nyc-security-guides/av-sound-installation-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/av-sound-installation-brooklyn
 2026-11-23 | AVYCON Camera Installation Brooklyn | https://support677.github.io/nyc-security-guides/avycon-camera-installation-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-brooklyn
+2026-11-23 | Blink Camera Installation Brooklyn | https://support677.github.io/nyc-security-guides/blink-camera-installation-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-brooklyn
+2026-11-23 | Capture Camera Installation Brooklyn | https://support677.github.io/nyc-security-guides/capture-camera-installation-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-brooklyn
+2026-11-23 | Cat6 Repair Brooklyn | https://support677.github.io/nyc-security-guides/cat6-repair-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/cat6-repair-brooklyn
