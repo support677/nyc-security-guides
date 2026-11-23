@@ -203,3 +203,6 @@
 2026-11-22 | https://support677.github.io/nyc-security-guides/security-cameras-hudson-valley/ | QUEUED
 2026-11-22 | https://support677.github.io/nyc-security-guides/warehouse-security-camera-installation-hudson-valley/ | QUEUED
 2026-11-22 | https://support677.github.io/nyc-security-guides/security-camera-installation-queens/ | QUEUED
+2026-11-22 | https://support677.github.io/nyc-security-guides/intercom-repair-brooklyn/ | QUEUED
+2026-11-22 | https://support677.github.io/nyc-security-guides/access-control-installation-brooklyn/ | QUEUED
+2026-11-22 | https://support677.github.io/nyc-security-guides/security-camera-repair-brooklyn/ | QUEUED
