@@ -224,3 +224,6 @@
 2026-11-23 | https://support677.github.io/nyc-security-guides/cctv-installation-brooklyn/ | QUEUED
 2026-11-23 | https://support677.github.io/nyc-security-guides/commercial-security-systems-brooklyn/ | QUEUED
 2026-11-23 | https://support677.github.io/nyc-security-guides/construction-site-security-camera-installation-brooklyn/ | QUEUED
+2026-11-24 | https://support677.github.io/nyc-security-guides/dahua-camera-installation-brooklyn/ | QUEUED
+2026-11-24 | https://support677.github.io/nyc-security-guides/dmss-app-support-repair-brooklyn/ | QUEUED
+2026-11-24 | https://support677.github.io/nyc-security-guides/dvr-upgrade-brooklyn/ | QUEUED
