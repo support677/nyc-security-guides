@@ -230,3 +230,6 @@
 2026-11-24 | https://support677.github.io/nyc-security-guides/elevator-access-control-installation-brooklyn/ | QUEUED
 2026-11-24 | https://support677.github.io/nyc-security-guides/eufy-camera-installation-brooklyn/ | QUEUED
 2026-11-24 | https://support677.github.io/nyc-security-guides/fiber-optic-installation-brooklyn/ | QUEUED
+2026-11-24 | https://support677.github.io/nyc-security-guides/floodlight-camera-installation-brooklyn/ | QUEUED
+2026-11-24 | https://support677.github.io/nyc-security-guides/google-nest-camera-installation-brooklyn/ | QUEUED
+2026-11-24 | https://support677.github.io/nyc-security-guides/guarding-vision-app-support-repair-brooklyn/ | QUEUED
