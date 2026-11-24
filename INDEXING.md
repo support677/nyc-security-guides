@@ -221,3 +221,6 @@
 2026-11-23 | https://support677.github.io/nyc-security-guides/blink-camera-installation-brooklyn/ | QUEUED
 2026-11-23 | https://support677.github.io/nyc-security-guides/capture-camera-installation-brooklyn/ | QUEUED
 2026-11-23 | https://support677.github.io/nyc-security-guides/cat6-repair-brooklyn/ | QUEUED
+2026-11-23 | https://support677.github.io/nyc-security-guides/cctv-installation-brooklyn/ | QUEUED
+2026-11-23 | https://support677.github.io/nyc-security-guides/commercial-security-systems-brooklyn/ | QUEUED
+2026-11-23 | https://support677.github.io/nyc-security-guides/construction-site-security-camera-installation-brooklyn/ | QUEUED
