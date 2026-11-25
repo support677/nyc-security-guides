@@ -495,3 +495,9 @@ Date | Guide | Image | Status
 2026-11-25 | co-op-security-systems-hudson-valley | https://www.abstractenterprisessecuritysystems.com/images/co-op-security-systems/co-op-security-systems-hudson-valley-cable-bundles-dropping-into-equipment-rack.webp | AI placeholder — swap for real job photo
 2026-11-25 | intercom-repair-queens | https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/lobby-directory-panel-diagnostics.jpg | AI placeholder — swap for real job photo
 2026-11-25 | intercom-repair-queens | https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/apartment-handset-door-release-check.jpg | AI placeholder — swap for real job photo
+2026-11-25 | access-control-installation-queens | https://www.abstractenterprisessecuritysystems.com/images/access-control-keypad-reader-wiring.jpg | AI placeholder — swap for real job photo
+2026-11-25 | access-control-installation-queens | https://www.abstractenterprisessecuritysystems.com/images/access-control-installation/access-control-installation-new-utrecht-steel-corridor-door-with-keypad-lever-lock-and-ceiling-camera.webp | AI placeholder — swap for real job photo
+2026-11-25 | security-camera-repair-queens | https://www.abstractenterprisessecuritysystems.com/images/camera-repair/poe-voltage-test-rack.webp | AI placeholder — swap for real job photo
+2026-11-25 | security-camera-repair-queens | https://www.abstractenterprisessecuritysystems.com/images/camera-repair/dome-camera-moisture-repair.webp | AI placeholder — swap for real job photo
+2026-11-25 | door-buzzer-repair-westchester-county | https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/door-release-two-technician-test.jpg | AI placeholder — swap for real job photo
+2026-11-25 | door-buzzer-repair-westchester-county | https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/apartment-buzzer-junction-box-tracing.jpg | AI placeholder — swap for real job photo
