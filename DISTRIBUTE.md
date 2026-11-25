@@ -238,3 +238,6 @@ date | phrase | guide url | Abstract Enterprises Security Systems page
 2026-11-25 | Co-op Security Systems NYC | https://support677.github.io/nyc-security-guides/co-op-security-systems-nyc/ | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-nyc
 2026-11-25 | Home Automation Installation Brooklyn | https://support677.github.io/nyc-security-guides/home-automation-installation-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/home-automation-installation-brooklyn
 2026-11-25 | Lorex Camera Installation Brooklyn | https://support677.github.io/nyc-security-guides/lorex-camera-installation-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-brooklyn
+2026-11-25 | Co-op Security Systems Long Island | https://support677.github.io/nyc-security-guides/co-op-security-systems-long-island/ | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-long-island
+2026-11-25 | Co-op Security Systems Hudson Valley | https://support677.github.io/nyc-security-guides/co-op-security-systems-hudson-valley/ | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-hudson-valley
+2026-11-25 | Intercom Repair Queens | https://support677.github.io/nyc-security-guides/intercom-repair-queens/ | https://www.abstractenterprisessecuritysystems.com/intercom-repair-queens
