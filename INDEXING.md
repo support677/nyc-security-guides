@@ -236,3 +236,6 @@
 2026-11-24 | https://support677.github.io/nyc-security-guides/hanwha-camera-installation-brooklyn/ | QUEUED
 2026-11-24 | https://support677.github.io/nyc-security-guides/hik-connect-app-support-repair-brooklyn/ | QUEUED
 2026-11-24 | https://support677.github.io/nyc-security-guides/home-automation-dutchess-county/ | QUEUED
+2026-11-25 | https://support677.github.io/nyc-security-guides/co-op-security-systems-nyc/ | QUEUED
+2026-11-25 | https://support677.github.io/nyc-security-guides/home-automation-installation-brooklyn/ | QUEUED
+2026-11-25 | https://support677.github.io/nyc-security-guides/lorex-camera-installation-brooklyn/ | QUEUED
