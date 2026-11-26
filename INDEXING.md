@@ -245,3 +245,6 @@
 2026-11-25 | https://support677.github.io/nyc-security-guides/access-control-installation-queens/ | QUEUED
 2026-11-25 | https://support677.github.io/nyc-security-guides/security-camera-repair-queens/ | QUEUED
 2026-11-25 | https://support677.github.io/nyc-security-guides/door-buzzer-repair-westchester-county/ | QUEUED
+2026-11-25 | https://support677.github.io/nyc-security-guides/alarm-installation-queens/ | QUEUED
+2026-11-25 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-queens/ | QUEUED
+2026-11-25 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-queens/ | QUEUED
