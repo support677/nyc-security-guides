@@ -50,17 +50,17 @@
 2026-11-10 | https://support677.github.io/nyc-security-guides/lorex-camera-installation-nyc/ | REQUESTED 2026-11-22
 2026-11-10 | https://support677.github.io/nyc-security-guides/low-voltage-installation-nyc/ | REQUESTED 2026-11-22
 2026-11-10 | https://support677.github.io/nyc-security-guides/luminys-camera-installation-nyc/ | REQUESTED 2026-11-22
-2026-11-11 | https://support677.github.io/nyc-security-guides/network-cable-repair-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/network-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/nvr-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/reolink-camera-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/ring-camera-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/school-security-camera-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/security-camera-maintenance-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/smart-lock-installation-nyc/ | QUEUED
-2026-11-11 | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-nyc/ | QUEUED
+2026-11-11 | https://support677.github.io/nyc-security-guides/network-cable-repair-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/network-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/night-owl-camera-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/nvr-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/parking-lot-camera-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/reolink-camera-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/ring-camera-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/school-security-camera-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/security-camera-maintenance-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/smart-lock-installation-nyc/ | REQUESTED 2026-11-25
+2026-11-11 | https://support677.github.io/nyc-security-guides/smart-pss-support-setup-nyc/ | REQUESTED 2026-11-25
 2026-11-11 | https://support677.github.io/nyc-security-guides/solar-surveillance-trailer-nyc/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/sonos-installation-nyc/ | QUEUED
 2026-11-12 | https://support677.github.io/nyc-security-guides/soundbar-installation-nyc/ | QUEUED
