@@ -248,3 +248,6 @@
 2026-11-25 | https://support677.github.io/nyc-security-guides/alarm-installation-queens/ | QUEUED
 2026-11-25 | https://support677.github.io/nyc-security-guides/commercial-security-camera-installation-queens/ | QUEUED
 2026-11-25 | https://support677.github.io/nyc-security-guides/doorbell-camera-installation-queens/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/residential-security-camera-installation-queens/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/tv-installation-queens/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/cat6-installation-queens/ | QUEUED
