@@ -254,3 +254,6 @@
 2026-11-26 | https://support677.github.io/nyc-security-guides/structured-cabling-installation-queens/ | QUEUED
 2026-11-26 | https://support677.github.io/nyc-security-guides/apartment-building-security-camera-installation-queens/ | QUEUED
 2026-11-26 | https://support677.github.io/nyc-security-guides/av-sound-installation-queens/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/cat6-repair-queens/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/cctv-installation-queens/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/co-op-security-systems-brooklyn/ | QUEUED
