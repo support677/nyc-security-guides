@@ -260,3 +260,6 @@
 2026-11-26 | https://support677.github.io/nyc-security-guides/condo-security-systems-nyc/ | QUEUED
 2026-11-26 | https://support677.github.io/nyc-security-guides/commercial-security-systems-queens/ | QUEUED
 2026-11-26 | https://support677.github.io/nyc-security-guides/condo-security-systems-brooklyn/ | QUEUED
+2026-11-27 | https://support677.github.io/nyc-security-guides/co-op-security-camera-installation-nyc/ | QUEUED
+2026-11-27 | https://support677.github.io/nyc-security-guides/condo-security-camera-installation-nyc/ | QUEUED
+2026-11-27 | https://support677.github.io/nyc-security-guides/condo-security-systems-long-island/ | QUEUED
