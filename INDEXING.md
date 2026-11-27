@@ -257,3 +257,6 @@
 2026-11-26 | https://support677.github.io/nyc-security-guides/cat6-repair-queens/ | QUEUED
 2026-11-26 | https://support677.github.io/nyc-security-guides/cctv-installation-queens/ | QUEUED
 2026-11-26 | https://support677.github.io/nyc-security-guides/co-op-security-systems-brooklyn/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/condo-security-systems-nyc/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/commercial-security-systems-queens/ | QUEUED
+2026-11-26 | https://support677.github.io/nyc-security-guides/condo-security-systems-brooklyn/ | QUEUED

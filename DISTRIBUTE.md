@@ -256,3 +256,6 @@ date | phrase | guide url | Abstract Enterprises Security Systems page
 2026-11-26 | Cat6 Repair Queens | https://support677.github.io/nyc-security-guides/cat6-repair-queens/ | https://www.abstractenterprisessecuritysystems.com/cat6-repair-queens
 2026-11-26 | CCTV Installation Queens | https://support677.github.io/nyc-security-guides/cctv-installation-queens/ | https://www.abstractenterprisessecuritysystems.com/cctv-installation-queens
 2026-11-26 | Co-op Security Systems Brooklyn | https://support677.github.io/nyc-security-guides/co-op-security-systems-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-brooklyn
+2026-11-26 | Condo Security Systems NYC | https://support677.github.io/nyc-security-guides/condo-security-systems-nyc/ | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-nyc
+2026-11-26 | Commercial Security Systems Queens | https://support677.github.io/nyc-security-guides/commercial-security-systems-queens/ | https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-queens
+2026-11-26 | Condo Security Systems Brooklyn | https://support677.github.io/nyc-security-guides/condo-security-systems-brooklyn/ | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-brooklyn
