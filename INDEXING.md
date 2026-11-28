@@ -269,3 +269,6 @@
 2026-11-27 | https://support677.github.io/nyc-security-guides/apartment-building-security-systems-nyc/ | QUEUED
 2026-11-27 | https://support677.github.io/nyc-security-guides/co-op-security-camera-installation-hudson-valley/ | QUEUED
 2026-11-27 | https://support677.github.io/nyc-security-guides/condo-security-camera-installation-hudson-valley/ | QUEUED
+2026-11-27 | https://support677.github.io/nyc-security-guides/apartment-building-security-systems-long-island/ | QUEUED
+2026-11-27 | https://support677.github.io/nyc-security-guides/property-management-security-nyc/ | QUEUED
+2026-11-27 | https://support677.github.io/nyc-security-guides/apartment-building-security-systems-hudson-valley/ | QUEUED
