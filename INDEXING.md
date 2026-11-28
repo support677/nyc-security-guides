@@ -272,3 +272,6 @@
 2026-11-27 | https://support677.github.io/nyc-security-guides/apartment-building-security-systems-long-island/ | QUEUED
 2026-11-27 | https://support677.github.io/nyc-security-guides/property-management-security-nyc/ | QUEUED
 2026-11-27 | https://support677.github.io/nyc-security-guides/apartment-building-security-systems-hudson-valley/ | QUEUED
+2026-11-28 | https://support677.github.io/nyc-security-guides/property-management-security-hudson-valley/ | QUEUED
+2026-11-28 | https://support677.github.io/nyc-security-guides/property-management-security-long-island/ | QUEUED
+2026-11-28 | https://support677.github.io/nyc-security-guides/security-camera-installation-nassau-county/ | QUEUED
